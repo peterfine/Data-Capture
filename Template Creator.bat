@@ -1,0 +1,1 @@
+java -cp .;rdeSQLite.jar dataCapture.TemplateCreatorGui
